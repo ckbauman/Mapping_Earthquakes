@@ -14,7 +14,7 @@ Additionally we are able to view 2 overlay options:
 - Earthquakes (all earthquakes in last 7 days)
 - Tectonic Plates
 
-INSERT:  Del 1 image
+![del1 image](https://github.com/ckbauman/Mapping_Earthquakes/blob/main/images/Del1.png)
 
 ### Deliverable 2: Add major Earthquake Data
 We modified the maps to also include an overlay for:
@@ -25,13 +25,13 @@ The earthquake data is represented by circles that are:
 - Orange - greater then 5.0
 - Green - greater then 4.5
 
-INSERT:  Del 2 image
+![del2 image](https://github.com/ckbauman/Mapping_Earthquakes/blob/main/images/Del2.png)
 
 ### Deliverable 3: Add an Additional Map
 We modified the maps to include 1 additional tile layer:
 - Dark
 
-INSERT: Del 3 image
+![del3 image](https://github.com/ckbauman/Mapping_Earthquakes/blob/main/images/Del3.png)
 
 ## Summary
 - Deliverables 1,2 and 3 were completed
